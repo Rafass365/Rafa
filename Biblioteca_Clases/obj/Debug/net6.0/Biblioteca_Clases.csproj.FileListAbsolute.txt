@@ -1,0 +1,36 @@
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.csproj.AssemblyReference.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.AssemblyInfoInputs.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.AssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.csproj.CoreCompileInputs.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.deps.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\refint\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\ref\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.deps.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.csproj.AssemblyReference.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.AssemblyInfoInputs.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.AssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.csproj.CoreCompileInputs.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\refint\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\Biblioteca_Clases\obj\Debug\net6.0\ref\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.deps.json
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\bin\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.csproj.AssemblyReference.cache
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.AssemblyInfoInputs.cache
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.AssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.csproj.CoreCompileInputs.cache
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\refint\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Rafa\Biblioteca_Clases\obj\Debug\net6.0\ref\Biblioteca_Clases.dll

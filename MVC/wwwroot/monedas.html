@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de monedas</title>
+    <meta name="description" content="Aplicacion de conversion de monedas" />
+    <meta name="author" content="Pedro" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="estilosconversor.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <div class="container">
+
+        <header id="inicio">
+            <h2>Conversor Monedas ACME 1.0</h2>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">Inicio</li>
+                <li class="breadcrumb-item">Monedas</li>
+                <li class="breadcrumb-item">Lista Monedas</li>
+            </ol>
+
+        </header>
+
+
+
+        <nav>
+            <ul>
+                <li>
+                    <a href="#listado">Listado de monedas</a>
+                </li>
+                <li>
+                    <a href="#tutorial">Ir a Tutoriales</a>
+                </li>
+                <li>
+                    <a href="#qa">Preguntas y respuestas</a>
+                </li>
+            </ul>
+        </nav>
+
+
+        <article title="Listado de Monedas" id="listado">
+            <h3>Monedas de Europa</h3>
+            <ul>
+                <li class="moneda">EUR</li>
+                <li class="moneda">GBP</li>
+            </ul>
+            <h3>Monedas de América</h3>
+            <ul>
+                <li class="moneda">USD</li>
+                <li class="moneda">COP</li>
+            </ul>
+            <h3>Monedas de Asia</h3>
+            <ul>
+                <li class="moneda">YJP</li>
+            </ul>
+            <a href="#inicio">Volver a inicio</a>
+        </article>
+
+
+
+        <article title="Tutorial" id="tutorial">
+            <h3>
+                ¿Cómo convertir monedas?
+            </h3>
+            <ol>
+                <li>Abra la pagina principal</li>
+                <li>Seleccione moneda de origen</li>
+                <li>Seleccione moneda de destino</li>
+                <li>Introduzca la cantidad</li>
+                <li>Clic en el boton convertir</li>
+            </ol>
+            <a href="#inicio">Volver a inicio</a>
+        </article>
+
+
+        <section title="Q&A" id="qa">
+            <h3>Preguntas y Respuestas</h3>
+            <dl>
+                <dt>¿Entre que monedas se puede convertir?</dt>
+                <dd>Puede convertir entre cualquier par de monedas</dd>
+
+                <dt>¿Que cantidad máxima se puede convertir?</dt>
+                <dd>Se puede convertir hasta 1.000.000</dd>
+            </dl>
+            <a href="#inicio">Volver a inicio</a>
+        </section>
+
+    </div>
+
+
+        <table>
+        <!--Titulo-->
+        <caption>Histórico de conversión de monedas</caption>
+        <!--Cabecera-->
+        <thead>
+            <tr>
+                <th colspan="4">Historico Conversion</th>
+                <th>1.0</th>
+            </tr>
+            <tr>
+                <th>Moneda Origen</th>
+                <th>Moneda Destino</th>
+                <th>Fecha</th>
+                <th>Valor</th>
+                <th>Resultado</th>
+            </tr>
+        </thead>
+        <!--Cuerpo-->
+        <tbody>
+            <tr>
+                <td>EUR</td>
+                <td>GBP</td>
+                <td>9/5/2023</td>
+                <td>100</td>
+                <td>110</td>
+            </tr>
+            <tr>
+                <td>USD</td>
+                <td>EUR</td>
+                <td>8/5/2023</td>
+                <td>200</td>
+                <td>180</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3">Total</td>
+                <td>2000</td>
+                <td>2500</td>
+            </tr>
+        </tfoot>
+
+    </table>
+
+</body>
+</html>
+

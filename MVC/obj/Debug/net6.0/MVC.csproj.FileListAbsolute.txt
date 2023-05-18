@@ -1,0 +1,102 @@
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\appsettings.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.exe
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.deps.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.dll
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.pdb
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC.props
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC.props
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.dll
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\refint\MVC.dll
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.pdb
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\ref\MVC.dll
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Proyecto Clase Web\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.csproj.CopyComplete
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\appsettings.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.exe
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.deps.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.dll
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\MVC.pdb
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\bin\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC.props
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC.props
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.csproj.CopyComplete
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.dll
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\refint\MVC.dll
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.pdb
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+E:\Users\Cursostardes\Desktop\Prueba_MVC_Solucion\MVC\obj\Debug\net6.0\ref\MVC.dll
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\appsettings.json
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\MVC.exe
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\MVC.deps.json
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\MVC.dll
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\MVC.pdb
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\Biblioteca_Clases.dll
+E:\Users\Cursostardes\Desktop\Rafa\MVC\bin\Debug\net6.0\Biblioteca_Clases.pdb
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC.props
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC.props
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.csproj.CopyComplete
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.dll
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\refint\MVC.dll
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.pdb
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+E:\Users\Cursostardes\Desktop\Rafa\MVC\obj\Debug\net6.0\ref\MVC.dll
