@@ -1,7 +1,17 @@
+using MVC.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// 1. - Add services to the container. Inyector dependencias = Contenedor
 builder.Services.AddControllersWithViews();
+
+//
+// Agregado servicio TestB
+builder.Services.AddScoped<ITest, TestB>();
+
+// Agregar servicio repositorio
+builder.Services.AddScoped<IConversorRepositorio, ConversorRepositorio>();
+
 
 var app = builder.Build();
 

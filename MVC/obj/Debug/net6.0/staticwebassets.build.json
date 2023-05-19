@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KDqs3zqf3ARVKEXqvAVWXvuTLpChf2yWGwvqEnyGoG4=",
+  "Hash": "eS3s/TZKIZ1pTaLfKzzlSttuqVgwB6JiLuRinc5Ay/s=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -153,6 +153,23 @@
       "OriginalItemSpec": "wwwroot\\img\\euro.png"
     },
     {
+      "Identity": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\favicon.png",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "img/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\favicon.png"
+    },
+    {
       "Identity": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\libra.png",
       "SourceId": "MVC",
       "SourceType": "Discovered",
@@ -168,6 +185,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\libra.png"
+    },
+    {
+      "Identity": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\Peso.png",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "img/Peso.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Peso.png"
+    },
+    {
+      "Identity": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\png-transparent-money-bag-computer-icons-bank-coin-money-bag-saving-donation-payment.png",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "img/png-transparent-money-bag-computer-icons-bank-coin-money-bag-saving-donation-payment.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\png-transparent-money-bag-computer-icons-bank-coin-money-bag-saving-donation-payment.png"
+    },
+    {
+      "Identity": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\Yen.png",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "img/Yen.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Yen.png"
     },
     {
       "Identity": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\index.html",
@@ -1188,6 +1256,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\monedas.html"
+    },
+    {
+      "Identity": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\registro.html",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "registro.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\registro.html"
     }
   ]
 }

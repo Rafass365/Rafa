@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\Peso.png",
+      "PackagePath": "staticwebassets\\img\\Peso.png"
+    },
+    {
+      "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\Yen.png",
+      "PackagePath": "staticwebassets\\img\\Yen.png"
+    },
+    {
       "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\dollar.png",
       "PackagePath": "staticwebassets\\img\\dollar.png"
     },
@@ -29,8 +37,16 @@
       "PackagePath": "staticwebassets\\img\\euro.png"
     },
     {
+      "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
       "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\libra.png",
       "PackagePath": "staticwebassets\\img\\libra.png"
+    },
+    {
+      "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\img\\png-transparent-money-bag-computer-icons-bank-coin-money-bag-saving-donation-payment.png",
+      "PackagePath": "staticwebassets\\img\\png-transparent-money-bag-computer-icons-bank-coin-money-bag-saving-donation-payment.png"
     },
     {
       "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\index.html",
@@ -271,6 +287,10 @@
     {
       "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\monedas.html",
       "PackagePath": "staticwebassets\\monedas.html"
+    },
+    {
+      "Id": "E:\\Users\\Cursostardes\\Desktop\\Rafa\\MVC\\wwwroot\\registro.html",
+      "PackagePath": "staticwebassets\\registro.html"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
