@@ -1,8 +1,151 @@
 ﻿@{
+    // Modelo de la vista
     ViewData["Title"] = "Home Page";
+    //var nombre = "Juan";
+    //var calculo = 100 * 10;
+     
+
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@*<h1>Conversor de moneda de @nombre</h1>
+<h2>El resultado es @calculo</h2>
+
+El nombre de la moneda euro es: @ViewBag.Euro.Nombre
+El nombre de la persona es @ViewBag.Nombre
+
+<ul>
+@foreach (var moneda in ViewBag.ListaMonedas)
+{
+    <li>@moneda.Nombre</li>
+}
+</ul>*@
+
+
+
+  <div class="container">
+
+        <header class="jumbotron">
+            <h1 id="cabecera">Conversor de Monedas ACME 1.0</h1>
+            <h2>Convertimos entre mas de 150 monedas</h2>
+            <nav>
+                <ul>
+                    <li><a href="monedas.html">Monedas</a></li>
+                    <li><a href="acercade.html">Acerca de nosotros</a> </li>
+                    <li><a href="contacto.html">Contacte con nosotros</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <article title="Conversor 1.0">
+
+            <section id="principal">
+                En esta empresa pensamos que necesita convertir
+                entre cualquier tipo de moneda
+                <p>Existen mas de 150 monedas en el mundo</p>
+                <p>Convierta al instante !! <a href="monedas.html">Monedas</a></p>
+            </section>
+
+            <section id="testimonios">
+                <h4>Testimonios</h4>
+                <hr />
+                <blockquote cite="http://www.microsoft.com">
+                    <abbr title="Conversor ACME">CVACME</abbr> he convertido de dolares a euros al instante!
+                </blockquote>
+                <cite>Brenda &lt;Hoboken, NJ&gt;</cite>
+
+
+                <p>
+                    <q>He podido convertir al instante<sup>!!!</sup></q>
+                    &nbsp; <!--<br />-->
+                    <cite>Jamal &lt;Chicago, IL&gt;</cite>
+                </p>
+
+            </section>
+
+        </article>
+
+        <table class="table table-striped table-bordered table-hover">
+            <!--Titulo-->
+            <caption>Histórico de conversión de monedas</caption>
+            <!--Cabecera-->
+            <thead>
+                <tr>
+                    <th colspan="5">Historico Conversion</th>
+                    <th>1.0</th>
+                </tr>
+                <tr>
+                    <th></th>
+                    <th>Moneda Origen</th>
+                    <th>Moneda Destino</th>
+                    <th>Fecha</th>
+                    <th>Valor</th>
+                    <th>Resultado</th>
+                </tr>
+            </thead>
+            <!--Cuerpo-->
+            <tbody>
+                <tr>
+                    <td><img src="img/euro.png" alt="Euro" 
+                             width="32" height="32"/> </td>
+                    <td>EUR</td>
+                    <td>GBP</td>
+                    <td>9/5/2023</td>
+                    <td>100</td>
+                    <td>110</td>
+                </tr>
+                <tr>
+                    <td><img src="img/dollar.png" alt="Dolar" 
+                                 width="32" height="32" /></td>
+                    <td>USD</td>
+                    <td>EUR</td>
+                    <td>8/5/2023</td>
+                    <td>200</td>
+                    <td>180</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="img/libra.png" alt="Libra"
+                             width="32" height="32" />
+                    </td>
+                    <td>GBP</td>
+                    <td>EUR</td>
+                    <td>8/5/2023</td>
+                    <td>200</td>
+                    <td>180</td>
+                </tr>
+                <tr>
+                    <td><img src="img/Yen.png" alt="Yen" 
+                                 width="32" height="32" /></td>
+                    <td>YEN</td>
+                    <td>EUR</td>
+                    <td>18/5/2023</td>
+                    <td>200</td>
+                    <td>80</td>
+                </tr>
+                <tr>
+                    <td><img src="img/Peso.png" alt="Peso" 
+                                 width="32" height="32" /></td>
+                    <td>COP</td>
+                    <td>EUR</td>
+                    <td>21/5/2023</td>
+                    <td>300</td>
+                    <td>8000</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3">Total</td>
+                    <td>2000</td>
+                    <td>2500</td>
+                </tr>
+            </tfoot>
+
+        </table>
+
+
+
+        <footer>
+            &copy; ACME 2023
+        </footer>
+    </div>
+

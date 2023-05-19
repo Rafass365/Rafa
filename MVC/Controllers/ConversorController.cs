@@ -1,9 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MVC.Models;
 
 namespace MVC.Controllers
 {
     public class ConversorController : Controller
+
     {
+        private readonly IConversorRepositorio _repositorio;
+
+        public ConversorController(IConversorRepositorio repositorio) 
+        {
+            _repositorio = repositorio;
+        }
         //Cada Metodo corresponde a una ruta
 
         // http://localhost:5000/Conversor/Index
@@ -15,7 +23,7 @@ namespace MVC.Controllers
         // http://localhost:5000/Conversor/Login
         public IActionResult Login()
         {
-            return View();
+            return View(_repositorio.TraerTodasLasMonedas);
         }
 
         public IActionResult Registro()

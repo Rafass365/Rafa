@@ -29,9 +29,7 @@ namespace MVC.Controllers
             // var ListaFactores = mayordomo.TraerTodosLosFactores;
             // var ListaHistoricos = mayordomo.TraerTodosLosHistoricos;
             ViewBag.ListaMonedas = _conversorRepositorio.TraerTodasLasMonedas;
-            //ViewBag.ListaUsuarios = _conversorRepositorio.TraerTodosLosUsuarios;
-            //ViewBag.ListaFactores = _conversorRepositorio.TraerTodosLosFactores;
-            //ViewBag.ListaHistoricos = _conversorRepositorio.TraerTodosLosHistoricos;
+           
             return View();
         }
 
@@ -44,6 +42,26 @@ namespace MVC.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        public IActionResult Registro()
+        {
+            return View();
+        }
+
+        public IActionResult ListaMonedas()
+        {
+            return View();
+        }
+
+        public IActionResult EditorMoneda()
+        {
+            return View();
         }
     }
 }

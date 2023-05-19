@@ -16,12 +16,48 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Users\Cursostardes\Desktop\Rafa\MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Conversor/EditorMoneda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc29yXEVkaXRvck1vbmVkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Conversor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc29yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Conversor/ListaMonedas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc29yXExpc3RhTW9uZWRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Conversor/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc29yXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Conversor/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc29yXFJlZ2lzdHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Home/EditorMoneda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0b3JNb25lZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Home/ListaMonedas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YU1vbmVkYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Home/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Ryby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Shared/Error.cshtml]
@@ -43,3 +79,7 @@ build_metadata.AdditionalFiles.CssScope =
 [E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e
+
+[E:/Users/Cursostardes/Desktop/Rafa/MVC/Views/Shared/_LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-fnc72hl6ku

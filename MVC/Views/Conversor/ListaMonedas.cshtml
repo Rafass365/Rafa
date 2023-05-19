@@ -1,0 +1,16 @@
+﻿@model List<EjemploConversor_Interfaces.Moneda>
+
+@{
+    ViewData["Title"] = "ListaMonedas";
+}
+
+
+<h1>ListaMonedas</h1>
+
+<ul>
+    @foreach (var moneda in Model)
+    {
+        <li>@moneda.Simbolo</li>
+    }
+</ul>
+
